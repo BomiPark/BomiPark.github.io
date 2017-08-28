@@ -328,10 +328,12 @@
 					<div class='col-md-6'>
 						<div class='phones order-alt'>
 						 <img class='front' src='img/phone/main2.png' alt>
+						 <img class='back' src='img/screens/8.png' alt>
+
 						</div>
 					</div>
 					<div class='col-md-6'> 
-						<div class='screen-info-text'>
+						<div class='screen-info-text'>	
 							<h2 style="font-family: Helvetica"><b> 폴더 관리하기 </b></h2>
 							<p style="font-family: Helvetica"> 상단의 프로필은 자신이 설정 할 수 있습니다.<br/>
 								하단에서는 현재 폴더 리스트와 새로 추가한 폴더를<br/>
@@ -555,9 +557,6 @@
 			 다음 목표는 라이브러리가 내부적으로 어떻게 동작하는 지 이해하여 사용하기로 잡았고 </br>
 			 부스트캠프가 끝나더라도 이번 8주동안 했던 것 만큼 공부를 계속하려 합니다 </br></br>
 			
-
-			처음 2주간은 모르는 기술이나, 라이브러리가 나오면 눈물의 일기라며 적어두었다가 <br/>
-			집에 와서 찾고는 했는데, 이제는 그런 일도 적어지고, 그 자리에서 검색해서 알아내게 되었습니다. </br></br>
 			
 			최근 5주간 빛을 보게 된 제 깃허브 기록을 마지막으로 발표를 마무리하려 합니다.</br></br>
 			감사합니다 </br>
