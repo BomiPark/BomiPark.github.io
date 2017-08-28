@@ -4,11 +4,13 @@
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
 
 #main-wrapper, .intro-section,
+
+
 body, html{
 	height:100% !important;
 	width:100%;
 	font-family: 'Nanum Gothic Coding', monospace;
-	font-size: 24px;
+	font-size: 20px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
@@ -20,13 +22,17 @@ body, html{
 	font-variant: normal;
 }
 
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Nanum Gothic Coding'
+
+}
 
 .subscribe-btn,
 .p-table > .header > .price > *,
 .menu > ul > li > a,
 .btn-minimal,
 h1, h2, h3, h4, h5, h6{
-	font-family: 'Nanum Gothic Coding', monospace;
+	font-family: 'Nanum Gothic Coding'
 
 }
 
