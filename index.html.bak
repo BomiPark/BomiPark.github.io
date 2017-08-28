@@ -584,26 +584,7 @@
 
 		<!--==================================================================
 				Download Section
-			==================================================================-->
-		<section id='download' class='section download-section'
-			style='background-image: url(img/github_repo.png);'>
-			<div class='container'>
-				<div class='row text-center'>
-					<div class='col-md-8 col-md-offset-2'>
-						<div class='download-text-left'>
-							<h2>깃허브 기록 </h2>
-						</div>
-					</div>
-				</div>
-				<div class='download-btns text-left'>
-					<a href='https://github.com/BomiPark' class=''>
-						<img src='img/github.png' alt>
-					</a>
-				</div>
-			</div>
-		</section>
-
-
+			==================================================================
 
 		<!--==================================================================
 				Footer
