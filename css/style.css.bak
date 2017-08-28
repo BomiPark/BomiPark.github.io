@@ -10,16 +10,17 @@ body, html{
 	height:100% !important;
 	width:100%;
 	font-family: 'Nanum Gothic Coding', monospace;
-	font-size: 24px;
+	font-size: 20px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
 }
 
 *{
-	font-family: 'Nanum Gothic Coding', monospace;
+	font-family:  Helvetica , monospace;
 	font-style: normal;
 	font-variant: normal;
+	style="font-family: Helvetica"
 }
 
 h1, h2, h3, h4, h5, h6{

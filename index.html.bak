@@ -83,7 +83,7 @@
 						<div class='v-align'>
 							<div class='inner'>
 								<div class='intro-text'>
-									<img src="img/app_title.png" width="450">
+									<img src='img/app_title.png' width="450">
 									<p style="font-family: Helvetica">
 										할 일을 항상 까먹으시나요??! <br />
 										더이상 본인의 기억력을 탓하지마세요 ! <br />
@@ -546,30 +546,30 @@
 
 		<!--==================================================================
 				FAQ Section
-			
+			==================================================================-->
 		<section id='faq' class='section faq-section'>
 			<div class='container'>
 				<div class='top-section-header'>
-					<h2>후기 후기 </h2>
+					<h2>후기 </h2>
 				</div>
 				<div class='col-md-6'>
 					<div class='faq'>
-						<h4>Why is this so cheap?</h4>
-						<p>1.</p>
+						<h4></h4>
+						<p></p>
 					</div>
 					<div class='faq'>
-						<h4>Why Choose Us?</h4>
-						<p>2</p>
+						<h4></h4>
+						<p></p>
 					</div>
 				</div>
 				<div class='col-md-6'>
 					<div class='faq'>
-						<h4>How many days will you get trial?</h4>
-						<p>4</p>
+						<h4></h4>
+						<p></p>
 					</div>
 				</div>
 			</div>
-		</section>==================================================================-->
+		</section>
 
 
 		<!--==================================================================

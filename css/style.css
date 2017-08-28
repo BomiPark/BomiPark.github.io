@@ -17,9 +17,10 @@ body, html{
 }
 
 *{
-	font-family: 'Nanum Gothic Coding', monospace;
+	font-family:  'Helvetica' , monospace;
 	font-style: normal;
 	font-variant: normal;
+	style="font-family: Helvetica"
 }
 
 h1, h2, h3, h4, h5, h6{
