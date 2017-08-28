@@ -1082,7 +1082,7 @@ a.btn-minimal{
 	clear:both;
 }
 .clients > li{
-	width:33.333%;
+	width:30.333%;
 	float:left;
 	padding:25px;
 	border:solid 1px #C0C0C0;
