@@ -142,7 +142,7 @@
 							</div>
 							<div class='content'>
 								<h4> Remind </h4>
-								<p> 위치기반 서비스를 이용해<br/>
+								<p style="font-family: Helvetica"> 위치기반 서비스를 이용해<br/>
 								지금 수행 할 수 있는 일을<br/>
 								  리마인드시켜줌으로서 <br/>
 								  수행률을 높여줍니다 </p>
@@ -156,7 +156,7 @@
 							</div>
 							<div class='content'>
 								<h4> Setting </h4>
-								<p> 알람 설정을 끄거나, <br/>
+								<p style="font-family: Helvetica"> 알람 설정을 끄거나, <br/>
 									알람받을 반경을  <br/>
 									조절 할 수 있습니다. </p>
 							</div>
@@ -170,7 +170,7 @@
 							</div>
 							<div class='content'>
 								<h4> Backup </h4>
-								<p> 구글 계정과 연동하여 <br/>
+								<p style="font-family: Helvetica"> 구글 계정과 연동하여 <br/>
 									등록한 모든 리스트를  <br/>
 									백업하거나, 복구할 수 있습니다 </p>
 							</div>
@@ -187,7 +187,7 @@
 			<div class='container'>
 				<div class='top-section-header'>
 					<h2>Screenshots</h2>
-					<p>앱의 전체 실행 흐름입니다</p>
+					<p style="font-family: Helvetica">앱의 전체 실행 흐름입니다</p>
 				</div>
 				<ul class='screenshots-slider'>
 					<li>
@@ -550,7 +550,7 @@
 		<section id='faq' class='section faq-section'>
 			<div class='container'>
 				<div class='top-section-header'>
-					<h2>후기 </h2>
+					<h2> 후기 </h2> 
 				</div>
 				<div class='col-md-6'>
 					<div class='faq'>
