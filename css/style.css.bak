@@ -17,10 +17,10 @@ body, html{
 }
 
 *{
-	font-family:  Helvetica , monospace;
+	font-family:  'Helvetica' , monospace;
 	font-style: normal;
 	font-variant: normal;
-	style="font-family: Helvetica"
+	font-style : 'Helvetica'
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -457,7 +457,7 @@ a.btn-minimal{
 	padding-bottom:100px;
 }
 .screen-info-text > h2{
-	font-size:38px;
+	font-size:36px;
 	font-weight:300;
 	margin-bottom:20px;
 }
@@ -471,29 +471,30 @@ a.btn-minimal{
 .phones{
 	position:relative;
 	text-align:center;
-	overflow:hidden;
-	height:490px;
 }
 .phones > .front{
 	position:relative;
 	z-index:5;
-	width:350px;
+	width: 440px;
 	margin-right:-85px;
 }
 .phones > .back{
-	width:290px;
 	position:relative;
 	z-index:4;
-	margin-left:-85px;
+	width:300px;
+	margin-left:-65px;
 }
 
 .phones.order-alt > .back{
-	margin-right:-80px;
+	margin-right:-85px;
 	margin-left:auto;
+	width:300px;
+
 }
 .phones.order-alt > .front{
-	margin-left:-80px;
+	margin-left:-60px;
 	margin-right:auto;
+	width: 440px;
 }
 
 
