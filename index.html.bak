@@ -302,13 +302,14 @@
 					<div class='col-md-6 col-md-push-6'>
 						<div class='phones'>
 							<img class='front' src='img/phone/pm.png' alt>
+							<img class='back' src='img/phone/detail.png' alt>
 						</div>
 					</div>
 					<div class='col-md-6 col-md-pull-6'>
 						<div class='screen-info-text'>
 							<h2><b> 전체리스트 보기 </b></h2>
 							<p style="font-family: Helvetica"> 오른쪽의 스피너를 통해 폴더별, 완료 여부에 따라<br/> 필터링해서 볼 수 있습니다 </p>
-							<img src='img/pen.png' width="40"> iBinder Service, Geofence Api
+							<img src='img/pen.png' width="40"> iBinder Service, Intent Service, Geofence Api
 
 					<br/><br/><img src='img/check.png' width="40">&nbsp; iBinder -> Singleton 
 
@@ -328,7 +329,6 @@
 					<div class='col-md-6'>
 						<div class='phones order-alt'>
 						 <img class='front' src='img/phone/main2.png' alt>
-						 <img class='back' src='img/screens/8.png' alt>
 
 						</div>
 					</div>
