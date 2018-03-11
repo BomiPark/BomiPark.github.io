@@ -17,10 +17,10 @@ body, html{
 }
 
 *{
-	font-family:  'Helvetica' , monospace;
-	font-style: normal;
-	font-variant: normal;
-	font-style : 'Helvetica'
+   font-family:  'Helvetica' !important, monospace;
+   font-style: normal;
+   font-variant: normal;
+   font-style : 'Helvetica' !important;
 }
 
 h1, h2, h3, h4, h5, h6{
